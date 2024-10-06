@@ -21,8 +21,7 @@
       "url": "mailto:olodocoder@gmail.com"
     }
   ],
-  "tabs": [
-  ],
+  "tabs": [],
   "anchors": [
     {
       "name": "Thoughts",
@@ -41,7 +40,10 @@
     }
   ],
   "navigation": [
-
+    {
+      "group": "Thoughts",
+      "pages": ["/thoughts/seek"]
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/olodocoder",
